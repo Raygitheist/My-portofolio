@@ -1,0 +1,45 @@
+*
+h1
+{
+    text-align: center;
+}
+div 
+{
+background-color:orange;
+color: green;
+box-sizing: border-box;
+
+padding: 25px;
+width: 48%;
+height: 400px;
+margin: 5px;
+border: 1px solid black;
+margin:0 auto;
+margin-top: 50px;
+display: inline-block;
+
+}
+body
+{
+background-image:url(dark-wall-empty-room-with-plants-floor-3d-rendering.jpg);
+}
+table
+{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 50%;
+    border: 1px solid black;
+
+}
+th, td
+{
+    padding: 16px;
+    text-align: left;
+    color: aliceblue;
+
+}
+tr:nth-child(odd) /*tr:nth-child(even)- Used to make Zebra table  
+Even takes the even sides eg 2,4,6 and Odd takes the odd sies i.e side 1,3,5 etc*/
+{
+    background-color: black;
+}

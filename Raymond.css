@@ -1,0 +1,90 @@
+*
+h1
+{
+  font-size: larger;
+  line-height: 49%;
+  text-align: center;
+
+}
+ nav a
+{
+  background-color: black;
+  color: green;
+  padding: 15px;
+  float: right;
+  padding: 10px;
+  border: solid 1px blue;
+  border-style: hidden;
+  height: 50px;
+  width: 100px;
+  border-width: 140px;
+  margin: 0 px;
+
+}
+li img
+{
+  height: 10cm;
+  width: 10cm;
+  border-radius: 100px;
+
+}
+nav
+{
+  font-variant: small-caps;
+  font-size: 100%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+nav p{
+  font-weight: 200;
+  color: green;
+  font-style: oblique;
+
+}
+h2
+{
+  font-size: 150%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+  
+}
+
+body
+{
+  display: table;
+background-image:url(dark-wall-empty-room-with-plants-floor-3d-rendering.jpg);
+}
+p
+{
+  line-height: 50%;
+  color:goldenrod;
+}
+
+h3
+{
+  color: purple;
+}
+h3 span
+{
+  color: aqua;
+}
+
+div p
+{
+width: 20cm;
+height: 20cm;
+overflow: scroll;
+  display: table-cell;
+  text-align: justify;
+  line-height: 1cm;
+  background-image: url(Ray.jpg);
+  visibility:visible;
+}
+details
+{
+  font-size: medium;
+  font-style: oblique;
+}
+ summary
+ {
+   font-style: normal;
+ }
